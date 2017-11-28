@@ -1,0 +1,32 @@
+[
+    {
+        "name": "BigBoss",
+        "thumbnail": "",
+        "photo": "",
+        "description": "http://apt.thebigboss.org/repofiles/cydia/"
+    },
+    {
+        "name": "Cydia/Telesphoreo",
+        "thumbnail": "",
+        "photo": "",
+        "description": "http://apt.saurik.com/"
+    },
+    {
+        "name": "ModMyi (Archive)",
+        "thumbnail": "",
+        "photo": "",
+        "description": "http://apt.modmyi.com/"
+    },
+    {
+        "name": "repo666.ultrasn0w.com",
+        "thumbnail": "",
+        "photo": "",
+        "description": "http://repo666.ultrasn0w.com/"
+    },
+    {
+        "name": "ZodTTD & MacCiti (Archive)",
+        "thumbnail": "",
+        "photo": "",
+        "description": "http://cydia.zottd.com/repo/cydia/"
+    }
+]
