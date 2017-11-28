@@ -30,10 +30,10 @@ $(function() {
 				baseZIndex: 10001,
 				useBodyOverflow: false,
 				usePopupEasyClose: true,
-				overlayColor: '#000000',
-				overlayOpacity: 0.75,
+				overlayColor: '#ffffff',
+				overlayOpacity: 0.5,
 				popupLoaderText: '',
-				fadeSpeed: 500,
+				fadeSpeed: 600,
 				usePopupDefaultStyling: false,
 				windowMargin: (skel.breakpoint('small').active ? 5 : 50)
 			});
