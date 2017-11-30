@@ -6,33 +6,9 @@
 		<key>name</key>
 		<string>WinterBoard</string>
 		<key>icon</key>
-		<string>../icons/winterboard.png</string>
+		<string></string>
 		<key>download_url</key>
 		<string>http://apt.saurik.com/cydia/debs/winterboard_0.9.3919_iphoneos-arm.deb</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Cydia/Telesphoreo</string>
-		<key>url</key>
-		<string>http://apt.saurik.com/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>ModMyi (Archive)</string>
-		<key>url</key>
-		<string>http://apt.modmyi.com/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>repo666.ultrasn0w.com/</string>
-		<key>url</key>
-		<string>http://repo666.ultrasn0w.com/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>ZodTTD &amp; MacCiti (Archive)</string>
-		<key>url</key>
-		<string>http://cydia.zottd.com/repo/cydia/</string>
 	</dict>
 </array>
 </plist>
