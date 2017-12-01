@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+   <dict>
+      <key>type</key>
+      <string>tweak</string>
+      <key>name</key>
+      <string>Maize</string>
+      <key>description</key>
+      <string>iOS 11 CC Ported to iOS 10</string>
+      <key>developer</key>
+      <string>iOSCreatix</string>
+      <key>price</key>
+      <string>3.00</string>
+   </dict>
+   <dict>
+      <key>type</key>
+      <string>tweak</string>
+      <key>name</key>
+      <string>XRetina</string>
+      <key>description</key>
+      <string>iPhone X Screen Edges</string>
+      <key>developer</key>
+      <string>Degrager_Dev</string>
+      <key>price</key>
+      <string>Free</string>
+   </dict>
+   <dict>
+      <key>type</key>
+      <string>tweak</string>
+      <key>name</key>
+      <string>MicroPlayer</string>
+      <key>description</key>
+      <string>Micro System-Wide Music Player</string>
+      <key>developer</key>
+      <string>IndieDevKB / Antique_Dev</string>
+      <key>price</key>
+      <string>1.49</string>
+   </dict>
+   <dict>
+      <key>type</key>
+      <string>theme</string>
+      <key>name</key>
+      <string>Lotus</string>
+      <key>description</key>
+      <string></string>
+      <key>developer</key>
+      <string>Developer Name</string>
+      <key>price</key>
+      <string>Free</string>
+   </dict>
+   <dict>
+      <key>type</key>
+      <string>app</string>
+      <key>name</key>
+      <string>Cydia</string>
+      <key>description</key>
+      <string>The best jailbreak app of all time</string>
+      <key>developer</key>
+      <string>Saurik</string>
+      <key>price</key>
+      <string>Free</string>
+   </dict>
+</array>
+</plist>
