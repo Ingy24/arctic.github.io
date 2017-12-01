@@ -40,18 +40,6 @@
    </dict>
    <dict>
       <key>type</key>
-      <string>theme</string>
-      <key>name</key>
-      <string>Lotus</string>
-      <key>description</key>
-      <string></string>
-      <key>developer</key>
-      <string>Developer Name</string>
-      <key>price</key>
-      <string>Free</string>
-   </dict>
-   <dict>
-      <key>type</key>
       <string>app</string>
       <key>name</key>
       <string>Cydia</string>
