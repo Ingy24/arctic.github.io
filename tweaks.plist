@@ -38,17 +38,5 @@
       <key>price</key>
       <string>1.49</string>
    </dict>
-   <dict>
-      <key>type</key>
-      <string>app</string>
-      <key>name</key>
-      <string>Cydia</string>
-      <key>description</key>
-      <string>The best jailbreak app of all time</string>
-      <key>developer</key>
-      <string>Saurik</string>
-      <key>price</key>
-      <string>Free</string>
-   </dict>
 </array>
 </plist>
