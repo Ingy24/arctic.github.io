@@ -6,13 +6,13 @@
       <key>type</key>
       <string>tweak</string>
       <key>name</key>
-      <string>Maize</string>
+      <string>MicroPlayer</string>
       <key>description</key>
-      <string>iOS 11 CC Ported to iOS 10</string>
+      <string>Micro System-Wide Music Player</string>
       <key>developer</key>
-      <string>iOSCreatix</string>
+      <string>IndieDevKB / Antique_Dev</string>
       <key>price</key>
-      <string>3.00</string>
+      <string>1.49</string>
    </dict>
    <dict>
       <key>type</key>
@@ -25,18 +25,6 @@
       <string>Degrager_Dev</string>
       <key>price</key>
       <string>Free</string>
-   </dict>
-   <dict>
-      <key>type</key>
-      <string>tweak</string>
-      <key>name</key>
-      <string>MicroPlayer</string>
-      <key>description</key>
-      <string>Micro System-Wide Music Player</string>
-      <key>developer</key>
-      <string>IndieDevKB / Antique_Dev</string>
-      <key>price</key>
-      <string>1.49</string>
    </dict>
 </array>
 </plist>
