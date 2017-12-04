@@ -14,7 +14,7 @@
      <key>price</key>
      <string>1.99</string>
      <key>icon</key>
-     <string>https://github.com/antiquebeta/arctic.github.io/blob/master/icons/com.devsignerz.ayra_2.0_iphoneos-arm.png</string>
+     <string>https://github.com/antiquebeta/arctic.github.io/raw/master/icons/com.devsignerz.ayra_2.0_iphoneos-arm.png</string>
      <key>download_link</key>
      <string>https://github.com/antiquebeta/arctic.github.io/blob/master/themes/com.devsignerz.ayra_2.0_iphoneos-arm.deb?raw=true</string>
   </dict>
