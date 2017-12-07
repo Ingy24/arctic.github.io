@@ -8,15 +8,15 @@
      <key>name</key>
      <string>XRetina</string>
      <key>description</key>
-     <string></string>
+     <string>Compatible with iOS 8, 9 and 10. iPhone X Screen Edges on older iDevices.</string>
      <key>developer</key>
      <string>Degrager_Dev</string>
      <key>price</key>
      <string>Free</string>
      <key>icon</key>
-     <string>https://github.com/antiquebeta/arctic.github.io/raw/master/icons/com.devsignerz.ayra_2.0_iphoneos-arm.png</string>
+     <string></string>
      <key>download_link</key>
-     <string>https://github.com/antiquebeta/arctic.github.io/blob/master/themes/com.devsignerz.ayra_2.0_iphoneos-arm.deb?raw=true</string>
+     <string></string>
   </dict>
 </array>
 </plist>
