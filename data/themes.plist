@@ -2,21 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-  <dict>
-     <key>type</key>
-     <string>theme</string>
-     <key>name</key>
-     <string>Ayra</string>
-     <key>description</key>
-     <string>Tested on iOS 9.3.3 and 10.2 | A beautiful combination of flat icon design and material, colorful design.</string>
-     <key>developer</key>
-     <string>Devsignerz</string>
-     <key>price</key>
-     <string>1.99</string>
-     <key>icon</key>
-     <string>https://github.com/antiquebeta/arctic.github.io/raw/master/icons/com.devsignerz.ayra_2.0_iphoneos-arm.png</string>
-     <key>download_link</key>
-     <string>https://github.com/antiquebeta/arctic.github.io/blob/master/themes/com.devsignerz.ayra_2.0_iphoneos-arm.deb?raw=true</string>
-  </dict>
+	<dict>
+		<key>type</key>
+		<string>theme</string>
+		<key>name</key>
+		<string>Ayra</string>
+		<key>description</key>
+		<string>Tested on iOS 9.3.3 and 10.2 | A beautiful combination of flat icon design and material, colorful design.</string>
+		<key>developer</key>
+		<string>Devsignerz</string>
+		<key>price</key>
+		<string>1.99</string>
+		<key>icon</key>
+		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/icons/com.devsignerz.ayra.png</string>
+		<key>download_link</key>
+		<string>https://github.com/antiquebeta/arctic.github.io/blob/master/themes/com.devsignerz.ayra.deb?raw=true</string>
+	</dict>
 </array>
 </plist>
