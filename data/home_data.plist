@@ -3,10 +3,14 @@
 <plist version="1.0">
 <array>
   	<dict>
+		<key>date</key>
+		<string>MONDAY, 01 JANUARY</string>
 		<key>header</key>
 		<string>New Releases</string>
 	</dict>
   	<dict>
+		<key>date</key>
+		<string>TUESDAY, 02 JANUARY</string>
 		<key>header</key>
 		<string>Favourites</string>
 	</dict>
