@@ -8,19 +8,11 @@
 	</dict>
   	<dict>
 		<key>header</key>
-		<string>Home</string>
+		<string>New Releases</string>
 	</dict>
   	<dict>
 		<key>header</key>
-		<string>Home</string>
-	</dict>
-  	<dict>
-		<key>header</key>
-		<string>Home</string>
-	</dict>
-  	<dict>
-		<key>header</key>
-		<string>Home</string>
+		<string>Favourites</string>
 	</dict>
 </array>
 </plist>
