@@ -3,6 +3,9 @@
 <plist version="1.0">
 <array>
 	<dict>
+	</dict>
+	
+	<dict>
 		<key>type</key>
 		<string>tweak</string>
 		<key>name</key>
