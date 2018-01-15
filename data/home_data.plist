@@ -24,59 +24,5 @@
 		<key>download_link</key>
 		<string>https://github.com/antiquebeta/arctic.github.io/blob/master/tweaks/com.antique.pangaea.deb?raw=true</string>
 	</dict>
-		<dict>
-		<key>type</key>
-		<string>tweak</string>
-		<key>name</key>
-		<string>XRetina</string>
-		<key>description</key>
-		<string>iPhone X Screen Edges on older iDevices</string>
-		<key>developer</key>
-		<string>Degrager_Dev</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>icon</key>
-		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/icons/com.degrager.xretina.png</string>
-		<key>download_link</key>
-		<string>https://github.com/antiquebeta/arctic.github.io/blob/master/tweaks/com.degrager.xretina.deb?raw=true</string>
-	</dict>
-			<dict>
-		<key>type</key>
-		<string>tweak</string>
-		<key>name</key>
-		<string>XRetina</string>
-		<key>description</key>
-		<string>iPhone X Screen Edges on older iDevices</string>
-		<key>developer</key>
-		<string>Degrager_Dev</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>icon</key>
-		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/icons/com.degrager.xretina.png</string>
-		<key>download_link</key>
-		<string>https://github.com/antiquebeta/arctic.github.io/blob/master/tweaks/com.degrager.xretina.deb?raw=true</string>
-	</dict>
-			<dict>
-		<key>type</key>
-		<string>tweak</string>
-		<key>name</key>
-		<string>XRetina</string>
-		<key>description</key>
-		<string>iPhone X Screen Edges on older iDevices</string>
-		<key>developer</key>
-		<string>Degrager_Dev</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>icon</key>
-		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/icons/com.degrager.xretina.png</string>
-		<key>download_link</key>
-		<string>https://github.com/antiquebeta/arctic.github.io/blob/master/tweaks/com.degrager.xretina.deb?raw=true</string>
-	</dict>
-	  	<dict>
-		<key>date</key>
-		<string>Friday, 12 January</string>
-		<key>header</key>
-		<string>New Releases</string>
-	</dict>
 </array>
 </plist>
