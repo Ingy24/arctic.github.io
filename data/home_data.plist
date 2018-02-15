@@ -8,6 +8,8 @@
 		<key>header</key>
 		<string>Today</string>
 	</dict>
+	
+	
 	<dict>
 		<key>type</key>
 		<string>tweak</string>
@@ -23,6 +25,23 @@
 		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/icons/com.antique.pangaea.png</string>
 		<key>download_link</key>
 		<string>https://github.com/antiquebeta/arctic.github.io/blob/master/tweaks/com.antique.pangaea.deb?raw=true</string>
+	</dict>
+	
+		<dict>
+		<key>type</key>
+		<string>tweak</string>
+		<key>name</key>
+		<string>Ayra</string>
+		<key>description</key>
+		<string>Ayra</string>
+		<key>developer</key>
+		<string>Devsignerz</string>
+		<key>price</key>
+		<string>0.99</string>
+		<key>icon</key>
+		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/icons/com.devsignerz.ayra.png</string>
+		<key>download_link</key>
+		<string>https://github.com/antiquebeta/arctic.github.io/blob/master/themes/com.devsignerz.ayra.deb?raw=true</string>
 	</dict>
 </array>
 </plist>
