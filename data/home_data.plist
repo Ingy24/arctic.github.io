@@ -2,14 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-	<!--
 	<dict>
 	<key>date</key>
 	<string>Monday, 12 February - Friday, 16 February</string>
 	<key>header</key>
-	<string>Last Week</string>
+	<string></string>
 </dict>
-<! Here lies a dead dictionary, Arctic loads everything post this-->
 
 	<dict>
 		<key>type</key>
