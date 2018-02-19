@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>New item</key>
+<array>
 	<dict>
 		<key>date</key>
 		<string>Some date that isn&apos;t shown...</string>
 		<key>header</key>
 		<string>Today</string>
 	</dict>
-	<key>New item - 2</key>
 	<dict>
 		<key>screenshots</key>
 		<array>
@@ -32,7 +30,6 @@
 		<key>download_link</key>
 		<string>https://github.com/antiquebeta/arctic.github.io/blob/master/tweaks/com.antique.pangaea.deb?raw=true</string>
 	</dict>
-	<key>New item - 3</key>
 	<dict>
 		<key>screenshots</key>
 		<array>
@@ -55,5 +52,5 @@
 		<key>download_link</key>
 		<string>https://github.com/antiquebeta/arctic.github.io/blob/master/themes/com.devsignerz.ayra.deb?raw=true</string>
 	</dict>
-</dict>
+</array>
 </plist>
