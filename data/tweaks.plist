@@ -19,8 +19,7 @@
 		<key>download_link</key>
 		<string>https://github.com/antiquebeta/arctic.github.io/blob/master/tweaks/com.degrager.xretina.deb?raw=true</string>
 	</dict>
-<!-- Here lies a dead dictionary, Arctic loads anything post this-->
-
+<!-- Here lies a dead dictionary, Arctic loads everything post this-->
 
 	<dict>
 		<key>type</key>
@@ -93,9 +92,9 @@
 
   	<dict>
 		<key>date</key>
-		<string></string>
+		<string>Monday, 12 February - Friday, 16 February</string>
 		<key>header</key>
-		<string>Yesterday</string>
+		<string>Last Week</string>
 	</dict>
 
 
