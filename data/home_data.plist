@@ -3,21 +3,11 @@
 <plist version="1.0">
 <array>
 	<dict>
-		<key>type</key>
-		<string>tweak</string>
-		<key>name</key>
-		<string>XRetina</string>
-		<key>description</key>
-		<string>iPhone X Screen Edges on older iDevices.</string>
-		<key>developer</key>
-		<string>Degrager_Dev</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>icon</key>
-		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/icons/com.degrager.xretina.png</string>
-		<key>download_link</key>
-		<string>https://github.com/antiquebeta/arctic.github.io/blob/master/tweaks/com.degrager.xretina.deb?raw=true</string>
-	</dict>
+	<key>date</key>
+	<string>Monday, 12 February - Friday, 16 February</string>
+	<key>header</key>
+	<string>Last Week</string>
+</dict>
 <!-- Here lies a dead dictionary, Arctic loads everything post this-->
 
 	<dict>
@@ -88,14 +78,12 @@
 		<string>https://github.com/antiquebeta/arctic.github.io/blob/master/tweaks/com.antique.slimmerbanners.deb?raw=true</string>
 	</dict>
 
-
-  	<dict>
-		<key>date</key>
-		<string>Monday, 12 February - Friday, 16 February</string>
-		<key>header</key>
-		<string>Last Week</string>
-	</dict>
-
+	<dict>
+	  <key>date</key>
+	  <string>Monday, 12 February - Friday, 16 February</string>
+	  <key>header</key>
+	  <string>Last Week</string>
+  </dict>
 
 	<dict>
 		<key>type</key>
