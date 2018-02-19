@@ -2,15 +2,19 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-  	<dict>
+	<dict>
 		<key>date</key>
-		<string>Some date that isn't shown...</string>
+		<string>Some date that isn&apos;t shown...</string>
 		<key>header</key>
 		<string>Today</string>
 	</dict>
-	
-	
 	<dict>
+		<key>screenshots</key>
+		<array>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/icons/com.antique.pangaea.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/icons/com.antique.pangaea.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/icons/com.antique.pangaea.png</string>
+		</array>
 		<key>type</key>
 		<string>tweak</string>
 		<key>name</key>
@@ -26,8 +30,13 @@
 		<key>download_link</key>
 		<string>https://github.com/antiquebeta/arctic.github.io/blob/master/tweaks/com.antique.pangaea.deb?raw=true</string>
 	</dict>
-	
-		<dict>
+	<dict>
+		<key>screenshots</key>
+		<array>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/icons/com.antique.pangaea.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/icons/com.antique.pangaea.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/icons/com.antique.pangaea.png</string>
+		</array>
 		<key>type</key>
 		<string>tweak</string>
 		<key>name</key>
