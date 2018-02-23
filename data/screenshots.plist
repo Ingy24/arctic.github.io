@@ -3,6 +3,8 @@
 <plist version="1.0">
 <array>
 	<dict>
+		<key>name</key>
+		<string>4GtoLTE</string>
 		<key>screenshot_one</key>
 		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
 		<key>screenshot_two</key>
@@ -12,6 +14,8 @@
 	</dict>
 
 	<dict>
+		<key>name</key>
+		<string>OutOfControl</string>
 		<key>screenshot_one</key>
 		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
 		<key>screenshot_two</key>
@@ -21,6 +25,8 @@
 	</dict>
 
 	<dict>
+		<key>name</key>
+		<string>XRetina</string>
 		<key>screenshot_one</key>
 		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
 		<key>screenshot_two</key>
@@ -30,6 +36,8 @@
 	</dict>
 
 	<dict>
+		<key>name</key>
+		<string>SlimmerBanners</string>
 		<key>screenshot_one</key>
 		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
 		<key>screenshot_two</key>

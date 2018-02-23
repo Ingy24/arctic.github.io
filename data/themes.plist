@@ -18,6 +18,7 @@
 		<key>download_link</key>
 		<string>https://github.com/antiquebeta/arctic.github.io/blob/master/themes/com.devsignerz.ayra.deb?raw=true</string>
 	</dict>
+<!-- Here lies a dead dictionary, Arctic loads everything post this-->
 
 	<dict>
 		<key>type</key>
