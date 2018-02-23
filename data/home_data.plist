@@ -10,15 +10,6 @@
 </dict>
 
 	<dict>
-	  <array>
-			<key>screenshot_one</key>
-		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
-		  <key>screenshot_two</key>
-		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
-		  <key>screenshot_three</key>
-		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
-	  </array>
-
 		<key>type</key>
 		<string>tweak</string>
 		<key>name</key>
