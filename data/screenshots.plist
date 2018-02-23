@@ -2,32 +2,28 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>name</key>
-	<string>4GtoLTE</string>
+	<key>44GtoLTE</key>
 	<array>
 		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
 		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_two@2x.png</string>
 		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
 	</array>
 
-	<key>name</key>
-	<string>OutOfControl</string>
+	<key>OutOfControl</key>
 	<array>
 		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
 		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
 		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
 	</array>
 
-	<key>name</key>
-	<string>XRetina</string>
+	<key>XRetina</key>
 	<array>
 		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
 		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
 		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
 	</array>
 
-	<key>name</key>
-	<string>SlimmerBanners</string>
+	<key>SlimmerBanners</key>
 	<array>
 		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
 		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
