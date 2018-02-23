@@ -4,30 +4,30 @@
 <dict>
 <key>screenshots_1</key>
 <array>
-    <string>https://github.com/antiquebeta/arctic.github.io/raw/master/missing/missing_one@2x.png</string>
-    <string>https://github.com/antiquebeta/arctic.github.io/raw/master/missing/missing_two@2x.png</string>
-    <string>https://github.com/antiquebeta/arctic.github.io/raw/master/missing/missing_three@2x.png</string>
+    <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+    <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_two@2x.png</string>
+    <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
 </array>
 
 <key>screenshots_2</key>
 <array>
-    <string>https://github.com/antiquebeta/arctic.github.io/raw/master/missing/missing_two@2x.png</string>
-    <string>https://github.com/antiquebeta/arctic.github.io/raw/master/missing/missing_three@2x.png</string>
-    <string>https://github.com/antiquebeta/arctic.github.io/raw/master/missing/missing_one@2x.png</string>
+    <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_two@2x.png</string>
+    <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
+    <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
 </array>
 
 <key>screenshots_3</key>
 <array>
-    <string>https://github.com/antiquebeta/arctic.github.io/raw/master/missing/missing_one@2x.png</string>
-    <string>https://github.com/antiquebeta/arctic.github.io/raw/master/missing/missing_four@2x.png</string>
-    <string>https://github.com/antiquebeta/arctic.github.io/raw/master/missing/missing_three@2x.png</string>
+    <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+    <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
+    <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
 </array>
 
 <key>screenshots_4</key>
 <array>
-  <string>https://github.com/antiquebeta/arctic.github.io/raw/master/missing/missing_four@2x.png</string>
-  <string>https://github.com/antiquebeta/arctic.github.io/raw/master/missing/missing_one@2x.png</string>
-  <string>https://github.com/antiquebeta/arctic.github.io/raw/master/missing/missing_three@2x.png</string>
+  <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
+  <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+  <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
 </array>
 </dict>
 </plist>
