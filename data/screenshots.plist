@@ -2,28 +2,32 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-<key>Codey_Moore</key>
+<key>developer</key>
+<string>Codey_Moore</string>
 <array>
     <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
     <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_two@2x.png</string>
     <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
 </array>
 
-<key>Antique_Dev</key>
+<key>developer</key>
+<string>Antique_Dev</string>
 <array>
     <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_two@2x.png</string>
     <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
     <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
 </array>
 
-<key>Degrager_Dev</key>
+<key>developer</key>
+<string>Degrager_Dev</string>
 <array>
     <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
     <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
     <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
 </array>
 
-<key>Antique_Dev</key>
+<key>developer</key>
+<string>Antique_Dev</string>
 <array>
   <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
   <string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
