@@ -17,7 +17,7 @@
 			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
 		</array>
 		<key>type</key>
-		<string>tweak</string>
+		<string>small</string>
 		<key>name</key>
 		<string>4GtoLTE</string>
 		<key>description</key>
@@ -40,7 +40,7 @@
 			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_two@2x.png</string>
 		</array>
 		<key>type</key>
-		<string>tweak</string>
+		<string>large</string>
 		<key>name</key>
 		<string>OutOfControl</string>
 		<key>description</key>
@@ -63,7 +63,7 @@
 			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
 		</array>
 		<key>type</key>
-		<string>tweak</string>
+		<string>small</string>
 		<key>name</key>
 		<string>XRetina</string>
 		<key>description</key>
@@ -86,7 +86,7 @@
 			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
 		</array>
 		<key>type</key>
-		<string>tweak</string>
+		<string>small</string>
 		<key>name</key>
 		<string>SlimmerBanners</string>
 		<key>description</key>
