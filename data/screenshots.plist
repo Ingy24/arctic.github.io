@@ -2,40 +2,37 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-<dict>
-	<key>screenshot</key>
-	<array>
-		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
-		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
-		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
-	</array>
-</dict>
-
-<dict>
-	<key>screenshot</key>
-	<array>
-		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
-		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
-		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
-	</array>
-</dict>
-
-<dict>
-	<key>screenshot</key>
-	<array>
-		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_two@2x.png</string>
-		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
-		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
-	</array>
-</dict>
-
-<dict>
-	<key>screenshot</key>
-	<array>
-		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
-		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
-		<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_two@2x.png</string>
-	</array>
-</dict>
+	<dict>
+		<key>screenshot</key>
+		<array>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+		</array>
+	</dict>
+	<dict>
+		<key>screenshot</key>
+		<array>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
+		</array>
+	</dict>
+	<dict>
+		<key>screenshot</key>
+		<array>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_two@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
+		</array>
+	</dict>
+	<dict>
+		<key>screenshot</key>
+		<array>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_two@2x.png</string>
+		</array>
+	</dict>
 </array>
 </plist>
