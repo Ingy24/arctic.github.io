@@ -10,6 +10,13 @@
 </dict>
 
 	<dict>
+		<key>screenshot</key>
+		<array>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+		</array>
+
 		<key>type</key>
 		<string>small</string>
 		<key>name</key>
@@ -61,8 +68,15 @@
 	</dict>
 
 	<dict>
+		<key>screenshot</key>
+		<array>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+		</array>
+
 		<key>type</key>
-		<string>small</string>
+		<string>large</string>
 		<key>name</key>
 		<string>SlimmerBanners</string>
 		<key>description</key>
