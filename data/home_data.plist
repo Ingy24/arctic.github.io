@@ -3,6 +3,14 @@
 <plist version="1.0">
 <array>
 	<dict>
+		<!-- We don't actually load, just fixes an issue -->
+		<key>screenshot</key>
+		<array>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+		</array>
+
 	<key>date</key>
 	<string></string>
 	<key>header</key>
@@ -106,6 +114,13 @@
 	</dict>
 
 	<dict>
+		<!-- We don't actually load, just fixes an issue -->
+		<key>screenshot</key>
+		<array>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_three@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+		</array>
 	  <key>date</key>
 	  <string>Monday, 12 February - Friday, 16 February</string>
 	  <key>header</key>
