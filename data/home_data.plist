@@ -3,6 +3,13 @@
 <plist version="1.0">
 <array>
 	<dict>
+		<key>screenshot</key>
+		<array>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
+		</array>
+
 	<key>date</key>
 	<string></string>
 	<key>header</key>
@@ -10,6 +17,13 @@
 </dict>
 
 	<dict>
+		<key>screenshot</key>
+		<array>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
+		</array>
+
 		<key>type</key>
 		<string>small</string>
 		<key>name</key>
@@ -51,6 +65,13 @@
 	</dict>
 
 	<dict>
+		<key>screenshot</key>
+		<array>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
+		</array>
+
 		<key>type</key>
 		<string>small</string>
 		<key>name</key>
@@ -92,6 +113,13 @@
 	</dict>
 
 	<dict>
+		<key>screenshot</key>
+		<array>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_one@2x.png</string>
+			<string>https://github.com/antiquebeta/arctic.github.io/raw/master/screenshots/missing_four@2x.png</string>
+		</array>
+		
 	  <key>date</key>
 	  <string>Monday, 12 February - Friday, 16 February</string>
 	  <key>header</key>
